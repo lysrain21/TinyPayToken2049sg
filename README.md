@@ -9,9 +9,8 @@ TinyPay enables seamless cryptocurrency payments in real-world scenarios—even 
 | Resource                | Link                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------ |
 | contract on Celo Mainnet| [0x141d0b9621ee775ddcfa21549767e21b4ff3b740](https://explorer.celo.org/mainnet/address/0x141d0b9621ee775ddcfa21549767e21b4ff3b740) |
-| 🎬 Video Demo & Slides    | [View on Google Slides](https://docs.google.com/presentation/d/1JZy1j2QZ_g_tF8v3j8c_w/edit?usp=sharing)      |
-| 🍎 TestFlight (Payer App) | [Download TinyPay](https://testflight.apple.com/join/YOUR_PAYER_APP_ID)                          |
-| 🛒 TestFlight (Merchant App)| [Download TinyPayCheckout](https://testflight.apple.com/join/YOUR_MERCHANT_APP_ID)               |
+| 🍎 TestFlight (Payer App) | [Download TinyPay](https://testflight.apple.com/join/XEAU8ffD)                          |
+| 🛒 TestFlight (Merchant App)| [Download TinyPayCheckout]( https://testflight.apple.com/join/1c9uyk2r)               |
 
 ## ✨ Key Innovations
 
